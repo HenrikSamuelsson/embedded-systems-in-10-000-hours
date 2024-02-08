@@ -4,10 +4,16 @@
 
 Created repository for this project, named embedded-systems-in-10-000-hours.
 
-## 2024-02-08 Session 1 (1h)
+## 2024-02-07 Session 1 (1h)
 
 Created document to hold list of abbreviations from the field of embedded systems.
 
 ## 2024-02-07 Session 2 (1h)
 
 Created introduction note, explaining what an embedded system is.
+
+## 2024-02-08 Session 1 (1h)
+
+Bought the book Intermediate C Programming in E-book format. Turned out that required an special app to read, called Bookshelf, so had to install this as well.
+
+Created a new note called c-programming.md to collect material related to the C programming language.
