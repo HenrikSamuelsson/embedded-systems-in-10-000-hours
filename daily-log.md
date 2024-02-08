@@ -17,3 +17,7 @@ Created introduction note, explaining what an embedded system is.
 Bought the book Intermediate C Programming in E-book format. Turned out that required an special app to read, called Bookshelf, so had to install this as well.
 
 Created a new note called c-programming.md to collect material related to the C programming language.
+
+## 2024-02-08 Session 2 (1h)
+
+Read up on C Programming in the book Intermediate C-Programming [(Lu, 2024)](references.md/#lu-2024), took notes in c-programming.md.
