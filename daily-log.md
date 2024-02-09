@@ -21,3 +21,7 @@ Created a new note called c-programming.md to collect material related to the C 
 ## 2024-02-08 Session 2 (1h)
 
 Read up on C Programming in the book Intermediate C-Programming [(Lu, 2024)](references.md/#lu-2024), took notes in c-programming.md.
+
+## 2024-02-09 Session 1 (1h)
+
+Read up on tool chains for C-development, especially on text-editors used to write source code, took some notes in c-programming.md.
