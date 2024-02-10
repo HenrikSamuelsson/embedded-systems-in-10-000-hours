@@ -25,3 +25,11 @@ Read up on C Programming in the book Intermediate C-Programming [(Lu, 2024)](ref
 ## 2024-02-09 Session 1 (1h)
 
 Read up on tool chains for C-development, especially on text-editors used to write source code, took some notes in c-programming.md.
+
+## 2024-02-09 Session 2 (1h)
+
+Read up on the Linux command `sed` that can be used to automate editing of files. Wrote about `sed` in [linux-commands](linux-commands.md).
+
+## 2024-02-09 Session 3 (1h)
+
+Read up on C programming tool chains and took notes in [c-progamming.md](c-programming.md#tool-chains.)
