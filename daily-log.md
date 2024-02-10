@@ -32,4 +32,4 @@ Read up on the Linux command `sed` that can be used to automate editing of files
 
 ## 2024-02-09 Session 3 (1h)
 
-Read up on C programming tool chains and took notes in [c-progamming.md](c-programming.md#tool-chains.)
+Read up on C programming tool chains and took notes in [c-programming.md](c-programming.md#tool-chains.)
