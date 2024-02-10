@@ -34,8 +34,10 @@ Read up on the Linux command `sed` that can be used to automate editing of files
 
 Read up on C programming tool chains and took notes in [c-programming.md](c-programming.md#tool-chains.)
 
-## 2024-02-10
+## 2024-02-10 Session 1 (1h)
 
-### Session 1 (1h)
+Worked on improving understanding best practices for running GCC on Windows. Read up on what MSYS2 is and upgraded my MSYS2 installation on my Dell work laptop.
 
-Worked on improving understanding on best practices for running GCC on Windows. Read up on what MSYS2 is and upgraded my MSYS2 installation on my Dell work laptop.
+## 2024-02-10 Session 2 (1h)
+
+Playing around with the Linux command `sed` by the use of WSL running under Windows 10.
