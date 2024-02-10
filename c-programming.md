@@ -36,4 +36,4 @@ The above are all good options for getting started with C programming. Later on 
 
 After having written the program in the text editor and being able to compile the code there will be an executable that can be run. It can be so that this executable will be run on the same machine that runs the text editor and compiler, and it's in this case just a matter of starting the executable on the computer.
 
-But it can also be so that the executable is intended to run on another machine that might be very much different from the general purpose computer used for development. Say for example that the program is intended to control a new sewing machine that is under development. In this case the executables first need to be transferred to the sewing machine to fully test the executable.
+But it can also be so that the executable is intended to run on another machine that might be very much different from the general purpose computer used for development. Say for example that the program is intended to control a new sewing machine that is under development. In this case the executables first need to be transferred to the sewing machine to run and fully test the executable.
