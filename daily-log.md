@@ -41,3 +41,7 @@ Worked on improving understanding best practices for running GCC on Windows. Rea
 ## 2024-02-10 Session 2 (1h)
 
 Playing around with the Linux command `sed` by the use of WSL running under Windows 10.
+
+## 2024-02-11 Session 1 (1h)
+
+Read-up on BLE in the book Intro to Bluetooth Low Energy.
