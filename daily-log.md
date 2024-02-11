@@ -45,3 +45,7 @@ Playing around with the Linux command `sed` by the use of WSL running under Wind
 ## 2024-02-11 Session 1 (1h)
 
 Read-up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
+
+## 2024-02-11 Session 2 (1h)
+
+Continued reading up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
