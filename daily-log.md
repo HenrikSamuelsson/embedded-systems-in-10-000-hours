@@ -50,6 +50,10 @@ Read-up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](refere
 
 Continued reading up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
 
-## 2024-02-11 Session 1 (2h)
+## 2024-02-12 Session 1 (2h)
 
 Continued reading up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Also downloaded and had a brief look at The Bluetooth Low Energy Primer [(Bluetooth SIG, 2023)](references.md#bluetooth-sig-2023).
+
+## 2024-02-13 Session 1 (1h)
+
+Learned and took notes on BLE device addresses based on information from the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
