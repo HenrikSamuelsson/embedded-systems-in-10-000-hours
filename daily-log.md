@@ -57,3 +57,7 @@ Continued reading up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 
 ## 2024-02-13 Session 1 (1h)
 
 Learned and took notes on BLE device addresses based on information from the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
+
+## 2024-02-14 Session 1 (1h)
+
+Learned and took notes on BLE packet formats based on information from the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
