@@ -1,6 +1,8 @@
 # Bluetooth Low Energy
 
-Bluetooth Low Energy (BLE) radio enables devices to exchange data wirelessly.
+Bluetooth Low Energy (BLE) radio enables devices to exchange data wirelessly over short ranges. The purpose of the BLE radio is to have a communication link between devices without requiring a cable to be connected between the devices. It should also be mentioned that BLE can be used for location tracking of assets and people.
+
+A concrete example of an BLE use case is an BLE enabled thermostat. By adding BLE radio to the thermostat it becomes possible to setup the configuration from a smartphone app. This simplifies the setup process such as setting a schedule for different temperatures for different times of the day. The smartphone will provide the user interface and the thermostat itself will be simplified without any need for buttons or display.
 
 ## BLE Protocol Stack
 
@@ -16,7 +18,7 @@ The BLE standard defines three different types of PHY radios:
 
 ## BLE Device Addresses
 
-A BLE device will have an unique address, represented by in a 48-bit value. 
+A BLE device will have an unique address, represented by in a 48-bit value.
 
 This device address comes in different types and subtypes:
 
