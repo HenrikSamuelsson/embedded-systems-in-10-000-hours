@@ -61,3 +61,7 @@ Learned and took notes on BLE device addresses based on information from the boo
 ## 2024-02-14 Session 1 (1h)
 
 Learned and took notes on BLE packet formats based on information from the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
+
+## 2024-02-15 Session 1 (2h)
+
+Read up on details on BLE advertising in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Then also looked into use cases for BLE technology and took some notes on this topic.
