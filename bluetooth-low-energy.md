@@ -4,6 +4,8 @@ Bluetooth Low Energy (BLE) radio enables devices to exchange data wirelessly ove
 
 A concrete example of an BLE use case is an BLE enabled thermostat. By adding BLE radio to the thermostat it becomes possible to setup the configuration from a smartphone app. This simplifies the setup process such as setting a schedule for different temperatures for different times of the day. The smartphone will provide the user interface and the thermostat itself will be simplified without any need for buttons or display.
 
+BLE have become an generally accepted standard and is widely supported by many hardware developers. Billions of BLE devices have been manufactured and shipped . This means that BLE comes built in a wide variety of devices, smartphones, computers, cars, wearables, medical devices, speakers, and even coffee mugs.
+
 ## BLE Protocol Stack
 
 ## Physical Layer
