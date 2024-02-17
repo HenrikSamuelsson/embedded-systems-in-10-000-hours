@@ -73,3 +73,8 @@ Read up on on mechanics for BLE connections in the book Intro to Bluetooth Low E
 ## 2024-02-17 Session 1 (2h)
 
 Updating GCC through MSYS2 on the home computer. Had issues getting the latest GCC version to become the default. Getting latest GCC and updating the PATH environment variable to point to the MSYS2 folder did not help. What seemed to work in the end was to delete old MINGW folders from some previous installation.
+
+## 2024-02-17 Session 2 (1h)
+
+Worked on my mathematical foundations be reading in the book Numerical Mathematics and Computing, David R. Kincaid, E. Ward Cheney. Learned about Horner's algorithm that can be used to calculate (approximate) values of polynomials as well as taking the derivatives of polynomials.
+ 
