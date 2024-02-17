@@ -19,3 +19,7 @@ GNU. (n.d.). *sed, a stream editor*. Retrieved 2024-02-09, from [https://www.gnu
 ## Afaneh, 2023
 
 Afaneh, M. (2023). *Intro to Bluetooth Low Energy* (2nd ed). Novel Bits.
+
+## Bluetooth SIG - Tech Overview, no date
+
+Bluetooth SIG. (n.d.). Retrieved 2024-02-11, from [https://www.bluetooth.com/learn-about-bluetooth/tech-overview/](https://www.bluetooth.com/learn-about-bluetooth/tech-overview/).
