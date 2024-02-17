@@ -69,3 +69,7 @@ Read up on details on BLE advertising in the book Intro to Bluetooth Low Energy 
 ## 2024-02-16 Session 1 (1h)
 
 Read up on on mechanics for BLE connections in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Learned about *connection events* where the peripheral and central exchange packets during a connection, and that there is a pause between connection events known as the *connection interval*.
+
+## 2024-02-17 Session 1 (2h)
+
+Updating GCC through MSYS2 on the home computer. Had issues getting the latest GCC version to become the default. Getting latest GCC and updating the PATH environment variable to point to the MSYS2 folder did not help. What seemed to work in the end was to delete old MINGW folders from some previous installation.
