@@ -23,3 +23,7 @@ Afaneh, M. (2023). *Intro to Bluetooth Low Energy* (2nd ed). Novel Bits.
 ## Bluetooth SIG - Tech Overview, no date
 
 Bluetooth SIG. (n.d.). Retrieved 2024-02-11, from [https://www.bluetooth.com/learn-about-bluetooth/tech-overview/](https://www.bluetooth.com/learn-about-bluetooth/tech-overview/).
+
+## Bluetooth SIG, 2023
+
+Bluetooth SIG. (2023). *The Bluetooth Low Energy Primer* (ver. 1.1.0). Bluetooth SIG.

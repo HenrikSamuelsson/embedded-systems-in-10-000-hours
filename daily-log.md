@@ -49,3 +49,23 @@ Read-up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](refere
 ## 2024-02-11 Session 2 (1h)
 
 Continued reading up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
+
+## 2024-02-12 Session 1 (2h)
+
+Continued reading up on BLE in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Also downloaded and had a brief look at The Bluetooth Low Energy Primer [(Bluetooth SIG, 2023)](references.md#bluetooth-sig-2023).
+
+## 2024-02-13 Session 1 (1h)
+
+Learned and took notes on BLE device addresses based on information from the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
+
+## 2024-02-14 Session 1 (1h)
+
+Learned and took notes on BLE packet formats based on information from the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023).
+
+## 2024-02-15 Session 1 (2h)
+
+Read up on details on BLE advertising in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Then also looked into use cases for BLE technology and took some notes on this topic.
+
+## 2024-02-16 Session 1 (1h)
+
+Read up on on mechanics for BLE connections in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Learned about *connection events* where the peripheral and central exchange packets during a connection, and that there is a pause between connection events known as the *connection interval*.
