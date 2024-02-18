@@ -77,4 +77,11 @@ Updating GCC through MSYS2 on the home computer. Had issues getting the latest G
 ## 2024-02-17 Session 2 (1h)
 
 Worked on my mathematical foundations be reading in the book Numerical Mathematics and Computing, David R. Kincaid, E. Ward Cheney. Learned about Horner's algorithm that can be used to calculate (approximate) values of polynomials as well as taking the derivatives of polynomials.
- 
+
+## 2024-02-18 Session 1 (1h)
+
+Did an exercise from the book Numerical Mathematics and Computing, learned how to calculate absolute errors and relative errors when having an approximation for a value, in this case it was approximations of pi with fractions such as 22/7.
+
+## 2024-02-18 Session 2 (2h)
+
+Bought the book the Creative Programmer and read parts of this. Brand new books, have only a few reviews so far, but seems like a good book. It is about soft skills and is supposed to make you a better problem solver as a programmer. Worth a try to read the book.
