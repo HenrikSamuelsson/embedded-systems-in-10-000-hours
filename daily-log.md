@@ -85,3 +85,7 @@ Did an exercise from the book Numerical Mathematics and Computing, learned how t
 ## 2024-02-18 Session 2 (2h)
 
 Bought the book the Creative Programmer and read parts of this. Brand new books, have only a few reviews so far, but seems like a good book. It is about soft skills and is supposed to make you a better problem solver as a programmer. Worth a try to read the book.
+
+## 2024-02-19 Session  1 (1h)
+
+Continued reading of Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Now on the chapter on security and privacy. Information was not very deep. Did learn that it is possible to have different security for individual characteristics and. Can chose to have some  characteristics open for everyone and keep some secret, only available for authenticated connections.
