@@ -93,3 +93,7 @@ Continued reading of Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.m
 ## 2024-02-20 Session 1 (1h)
 
 Continuation of reading in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Did a fast read of the chapter on Bluetooth LE Audio, not something I have need for at the moment so just wanted a quick orientation on this topic. Learned about the BLE state known as *Isochronous Broadcasting* that is is used with Bluetooth LE Audio. Was new to me that there are two streams for headphones, one for left and one for right, and the mechanism for syncing the sound in those two streams. Also learned to identify the now logo for the BLE audio related trademark called AuraCast.
+
+## 2024-02-20 Session 2 (1h)
+
+Read up on Bluetooth Mesh in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). This is a technology that allows for building a *many-to-many* topology of Bluetooth nodes. Can for example be used for setting up a network of light switches and light bulbs, where one switch can control many bulbs, and vice versa.
