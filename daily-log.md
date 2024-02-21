@@ -102,3 +102,6 @@ Read up on Bluetooth Mesh in the book Intro to Bluetooth Low Energy [(Afaneh, 20
 
 Reading in the book The Creative Programmer. The author argues that technical knowledge is a pillar stone for being creative. I agree with this opinion based on that if you do not know what other already have done can we still be creative but with the caveat that we might invent something that already exists, and possibly wasting a lot time during the process. Firs step to gain knowledge is to actually connect to an input source, can be books, courses, blogs, podcasts, videos, and attending presentations. Next step is to make the knowledge internalized, making it stick in the brain. Good ways acheive this is to quiz yourself, taking notes and then especially good if writing about the content in your own words, can also explain the concept to someone else (if finding anyone that will listen, as a fall back explain to your pet or a rubber duck).
 
+## 2024-02-21 Session 2 (1h)
+
+Finished the chapter on Bluetooth Mesh in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Learned that using Bluetooth Mesh enables usage of a standardized capability for firmware updates. This is great news because in all the projects I have been involved in we have had to implement firmware upgrade support from scratch which is time consuming.
