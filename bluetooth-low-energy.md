@@ -8,7 +8,7 @@ BLE have become an generally accepted standard and is widely supported by many h
 
 ## BLE Protocol Stack
 
-## Physical Layer
+### Physical Layer
 
 The physical layer (PHY) is the lowest bottom layer in the BLE Protocol stack. This layer is about actual physical methods to transmit the information by the use of radio.
 
@@ -30,3 +30,19 @@ This device address comes in different types and subtypes:
   - private
     - resolvable
     - non-resolvable
+
+## BLE Beacon
+
+A BLE Beacon is a Bluetooth device that typically only transmit advertising packets. This means that these types of devices are simple and will only handle small amounts of data that fits in the advertisement.
+
+Beacons comes in some different application categories:
+
+- Wireless sensors
+  - Temperature
+  - Humidity
+  - Pressure
+  - Motion
+  - Etc.
+- Payment systems
+- Indoor navigation
+- Asset tracking
