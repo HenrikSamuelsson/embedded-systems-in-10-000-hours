@@ -105,3 +105,7 @@ Reading in the book The Creative Programmer. The author argues that technical kn
 ## 2024-02-21 Session 2 (1h)
 
 Finished the chapter on Bluetooth Mesh in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Learned that using Bluetooth Mesh enables usage of a standardized capability for firmware updates. This is great news because in all the projects I have been involved in we have had to implement firmware upgrade support from scratch which is time consuming.
+
+## 2024-02-22 Session 1 (1h)
+
+Read the chapter on Bluetooth Beacons in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Already familiar with the Beacon concept, chapter was hence mostly a refresher. Learned about the existence of the [Android Beacon Library](https://altbeacon.github.io/android-beacon-library/) that can be used for beacons handling in Android.
