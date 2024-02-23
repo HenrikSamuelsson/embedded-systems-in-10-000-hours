@@ -46,3 +46,11 @@ Beacons comes in some different application categories:
 - Payment systems
 - Indoor navigation
 - Asset tracking
+
+## Central VS Peripheral
+
+Two BLE devices can form a connection, after forming the connection one of the devices will take on a role known as the *peripheral* and the other will take a role known as the *central*.
+
+A peripheral will typically be a battery powered device, can be some type of sensor. The central will typically be a more advanced device, commonly with some type of user interface where. The central can then collect the data from the sensor using BLE as transport medium and present the data to the user.
+
+When planning the design of a BLE system it shall be decided what role each device in the system will play.
