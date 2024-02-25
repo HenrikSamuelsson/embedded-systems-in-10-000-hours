@@ -8,7 +8,7 @@ BLE have become an generally accepted standard and is widely supported by many h
 
 ## BLE Protocol Stack
 
-## Physical Layer
+### Physical Layer
 
 The physical layer (PHY) is the lowest bottom layer in the BLE Protocol stack. This layer is about actual physical methods to transmit the information by the use of radio.
 
@@ -30,3 +30,27 @@ This device address comes in different types and subtypes:
   - private
     - resolvable
     - non-resolvable
+
+## BLE Beacon
+
+A BLE Beacon is a Bluetooth device that typically only transmit advertising packets. This means that these types of devices are simple and will only handle small amounts of data that fits in the advertisement.
+
+Beacons comes in some different application categories:
+
+- Wireless sensors
+  - Temperature
+  - Humidity
+  - Pressure
+  - Motion
+  - Etc.
+- Payment systems
+- Indoor navigation
+- Asset tracking
+
+## Central VS Peripheral
+
+Two BLE devices can form a connection, after forming the connection one of the devices will take on a role known as the *peripheral* and the other will take a role known as the *central*.
+
+A peripheral will typically be a battery powered device, can be some type of sensor. The central will typically be a more advanced device, commonly with some type of user interface where. The central can then collect the data from the sensor using BLE as transport medium and present the data to the user.
+
+When planning the design of a BLE system it shall be decided, and documented, what role each device in the system will play.
