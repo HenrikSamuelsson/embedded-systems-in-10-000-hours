@@ -97,3 +97,7 @@ Continuation of reading in the book Intro to Bluetooth Low Energy [(Afaneh, 2023
 ## 2024-02-20 Session 2 (1h)
 
 Read up on Bluetooth Mesh in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). This is a technology that allows for building a *many-to-many* topology of Bluetooth nodes. Can for example be used for setting up a network of light switches and light bulbs, where one switch can control many bulbs, and vice versa.
+
+## 2024-02-24 Session 1 (1h)
+
+Reading up on Bluetooth web. It is possible interact with Bluetooth module on computers and smart phones from web browsers. This enables running Bluetooth apps written in Java script from within for example Google Chrome. Afaneh [(Afaneh, 2023)](references.md#afaneh-2023) refers to this as Web Bluetooth in his book.
