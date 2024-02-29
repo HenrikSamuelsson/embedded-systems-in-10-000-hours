@@ -109,3 +109,7 @@ Finished the chapter on Bluetooth Mesh in the book Intro to Bluetooth Low Energy
 ## 2024-02-22 Session 1 (1h)
 
 Read the chapter on Bluetooth Beacons in the book Intro to Bluetooth Low Energy [(Afaneh, 2023)](references.md#afaneh-2023). Already familiar with the Beacon concept, chapter was hence mostly a refresher. Learned about the existence of the [Android Beacon Library](https://altbeacon.github.io/android-beacon-library/) that can be used for beacons handling in Android.
+
+## 2024-02-24 Session 1 (1h)
+
+Reading up on Bluetooth web. It is possible interact with Bluetooth module on computers and smart phones from web browsers. This enables running Bluetooth apps written in Java script from within for example Google Chrome. Afaneh [(Afaneh, 2023)](references.md#afaneh-2023) refers to this as Web Bluetooth in his book.
